@@ -1,1 +1,8 @@
-Hi, this is HJ's repo. You can explore my data analysis and modeling projects.
+👋🏻 Hi, I'm HJ! I've driven growth across fintech and delivery platforms.
+This is **HJ's repo** with my data analytics and modeling projects. I'm work with R, Python and SQL and love exploring insights and building predictive models with data.
+
+**Data Modeling Projects**
+1. [Classification - People Anaytics](https://github.com/builtbyhj/Analytics/tree/main/Classification)
+2. TBD ♥️
+
+Get more about me on [LikedIn](https://www.linkedin.com/in/shj735/)
